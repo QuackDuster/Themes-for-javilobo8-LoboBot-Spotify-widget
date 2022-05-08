@@ -1,0 +1,21 @@
+/* Widget in the right side */
+/*Widget box*/
+.sc-hNKHps,
+.hTPFel {
+  border-radius: 15px 0px 0px 15px;
+}
+/*Info shadow*/
+.sc-jTYCaT,
+.cuzWei {
+  border-radius: 0px 15px 15px 0px;
+}
+/* Widget in the left side */
+.sc-hNKHps,
+.hTPFel {
+  border-radius: 0px 15px 15px 0px;
+}
+/*Info shadow*/
+.sc-jTYCaT,
+.cuzWei {
+  border-radius: 0px 15px 15px 0px;
+}

@@ -1,23 +1,14 @@
-# IvanGodinez21 | Repositories template
+# Themes for javilobo8 LoboBot Spotify widget
 
-## Instructions
+## Use custom CSS code for amazing themes!
 
-Just select this template when you create a new repository or click on [Use this template](https://github.com/IvanGodinez21/Template/generate)
+Now you can customize the javilobo8 LoboBot Spotify widget  
+**Enjoy using these themes, THEY ARE FREE!**
 
-## Contents
-This template contains the following items
+<p align="center"><img src="./content/images/examples/example.gif"></p>
 
-### Sponsor
-- GitHub Sponsors
+Tip: If you don't know how to install a theme go to the [quick tutorial](./content/markdown/tutorial.md) and learn how do it.
 
-### Actions
-- Sponsors Labels
+## Don't you have the widget yet?
 
-### Issues templates
-- Bug
-- Enhancement
-- Feature
-
-## Important notes
-- Not   
-- Yet
+Go to https://lobobot.com
