@@ -15,13 +15,15 @@
 /*Info box*/
 .sc-cZwWEu,
 .iimgEi {
-  height: 70px;
-  left: 5px;
+  height: 100%;
+  height: 100%;
 }
 /*Info shadow*/
 .sc-jTYCaT,
 .cuzWei {
   box-shadow: none;
+  width: 100%;
+  height: 100%
 }
 /*Track name*/
 .sc-fvNpTx,
@@ -30,8 +32,10 @@
   font-family: 'Lexend', sans-serif;
   text-shadow: none;
   font-size: 18px;
+  text-transform: none;
   position: relative;
-  top: 4px;
+  left: 5px;
+  top: 5.2px;
 }
 /*Artist name*/
 .sc-HzFiz,
@@ -39,11 +43,12 @@
   color: rgba(25, 20, 20, 1);
   font-family: 'Lexend', sans-serif;
   text-shadow: none;
-  text-transform: uppercase;
+  text-transform: none;
   font-size: 12px;
   font-weight: bold;
   position: relative;
-  top: 3.5px;
+  top: 5.5px;
+  left: 5px;
 }
 /*Image cover*/
 .sc-dsQDmV,
