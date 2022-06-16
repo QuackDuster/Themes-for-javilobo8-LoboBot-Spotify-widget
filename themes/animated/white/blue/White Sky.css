@@ -2,8 +2,7 @@
 /*Font*/
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300&display=swap');
 /*Widget box*/
-.sc-liHMlC
-.bJyzMD {
+.sc-eEOqmf.lmSuDB {
   overflow: hidden;
   width: 350px;
   height: 67px;
@@ -13,21 +12,18 @@
   border-bottom: 3px solid rgb(78 136 190 / 74%);
 }
 /*Info box*/
-.sc-fSUSjI
-.bGbqej {
+.sc-lkwKjF.hLBnKE {
   height: 100%;
   height: 100%;
 }
 /*Info shadow*/
-.sc-jTYCaT
-.cuzWei {
+.sc-jmNpzm.lhUuop {
   box-shadow: none;
   width: 100%;
   height: 100%
 }
 /*Track name*/
-.sc-hQRsPl
-.drELam {
+.sc-hsOonA.kLQNVI {
   color: rgb(78 136 190 / 74%);
   font-family: 'Lexend', sans-serif;
   text-shadow: none;
@@ -38,8 +34,7 @@
   top: 5.2px;
 }
 /*Artist name*/
-.sc-BrFsL
-.cGyXXW {
+.sc-hjriPb.dBAGPU {
   color: rgba(25, 20, 20, 1);
   font-family: 'Lexend', sans-serif;
   text-shadow: none;
@@ -51,8 +46,7 @@
   left: 5px;
 }
 /*Image cover*/
-.sc-cuqtlR
-.cUmrKv {
+.sc-fmRtwQ.bZbgph {
   animation: cover-spin 20s linear infinite,
     cover-border 5s ease-out infinite alternate both;
   width: 59px;
