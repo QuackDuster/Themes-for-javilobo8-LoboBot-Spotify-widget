@@ -8,7 +8,7 @@
   height: 67px;
   animation: bar 5s ease-out infinite alternate both;
   background: rgba(255, 255, 255, 1);
-  border-radius: 15px 15px 15px 15px;
+  border-radius: 15px 0px 0px 0px;
   border-bottom: 3px solid rgb(78 136 190 / 74%);
 }
 /*Info box*/
@@ -27,7 +27,7 @@
   color: rgb(78 136 190 / 74%);
   font-family: 'Lexend', sans-serif;
   text-shadow: none;
-  font-size: 18px;
+  font-size: 20px;
   text-transform: none;
   position: relative;
   left: 5px;
@@ -39,7 +39,7 @@
   font-family: 'Lexend', sans-serif;
   text-shadow: none;
   text-transform: none;
-  font-size: 12px;
+  font-size: 15px;
   font-weight: bold;
   position: relative;
   top: 5.5px;
