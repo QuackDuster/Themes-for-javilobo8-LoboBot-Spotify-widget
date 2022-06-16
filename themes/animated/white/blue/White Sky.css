@@ -13,8 +13,8 @@
   border-bottom: 3px solid rgb(78 136 190 / 74%);
 }
 /*Info box*/
-.sc-cZwWEu,
-.iimgEi {
+.sc-fSUSjI ,
+.bGbqej {
   height: 100%;
   height: 100%;
 }
@@ -26,8 +26,8 @@
   height: 100%
 }
 /*Track name*/
-.sc-fvNpTx,
-.gokLMG {
+.sc-hQRsPl ,
+.drELam {
   color: rgb(78 136 190 / 74%);
   font-family: 'Lexend', sans-serif;
   text-shadow: none;
@@ -38,8 +38,8 @@
   top: 5.2px;
 }
 /*Artist name*/
-.sc-HzFiz,
-.bSoNpP {
+.sc-BrFsL ,
+.cGyXXW {
   color: rgba(25, 20, 20, 1);
   font-family: 'Lexend', sans-serif;
   text-shadow: none;
@@ -51,8 +51,8 @@
   left: 5px;
 }
 /*Image cover*/
-.sc-dsQDmV,
-.clTnkj {
+.sc-cuqtlR ,
+.cUmrKv {
   animation: cover-spin 20s linear infinite,
     cover-border 5s ease-out infinite alternate both;
   width: 59px;
