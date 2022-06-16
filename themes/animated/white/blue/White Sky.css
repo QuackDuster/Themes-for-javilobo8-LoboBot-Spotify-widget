@@ -28,7 +28,7 @@
   color: rgb(78 136 190 / 74%);
   font-family: 'Lexend', sans-serif;
   text-shadow: none;
-  font-size: 20px;
+  font-size: 18px;
   text-transform: none;
   position: relative;
   left: 5px;
@@ -41,14 +41,15 @@
   font-family: 'Lexend', sans-serif;
   text-shadow: none;
   text-transform: none;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: bold;
   position: relative;
   top: 5.5px;
   left: 5px;
 }
 /*Image cover*/
-.sc-fmRtwQ.bZbgph {
+.sc-fmRtwQ,
+.bZbgph {
   animation: cover-spin 20s linear infinite,
     cover-border 5s ease-out infinite alternate both;
   width: 59px;
